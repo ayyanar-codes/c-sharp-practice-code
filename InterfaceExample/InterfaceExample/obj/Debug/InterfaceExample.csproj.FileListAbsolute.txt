@@ -1,0 +1,7 @@
+C:\Ayyanar\InterfaceExample\InterfaceExample\bin\Debug\InterfaceExample.exe.config
+C:\Ayyanar\InterfaceExample\InterfaceExample\bin\Debug\InterfaceExample.exe
+C:\Ayyanar\InterfaceExample\InterfaceExample\bin\Debug\InterfaceExample.pdb
+C:\Ayyanar\InterfaceExample\InterfaceExample\obj\Debug\InterfaceExample.csproj.AssemblyReference.cache
+C:\Ayyanar\InterfaceExample\InterfaceExample\obj\Debug\InterfaceExample.csproj.CoreCompileInputs.cache
+C:\Ayyanar\InterfaceExample\InterfaceExample\obj\Debug\InterfaceExample.exe
+C:\Ayyanar\InterfaceExample\InterfaceExample\obj\Debug\InterfaceExample.pdb
