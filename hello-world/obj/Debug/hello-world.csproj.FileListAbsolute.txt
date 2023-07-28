@@ -1,0 +1,7 @@
+C:\Ayyanar\Web-dev\Backend\c-sharp-practice-code\hello-world\bin\Debug\hello-world.exe.config
+C:\Ayyanar\Web-dev\Backend\c-sharp-practice-code\hello-world\bin\Debug\hello-world.exe
+C:\Ayyanar\Web-dev\Backend\c-sharp-practice-code\hello-world\bin\Debug\hello-world.pdb
+C:\Ayyanar\Web-dev\Backend\c-sharp-practice-code\hello-world\obj\Debug\hello-world.csproj.AssemblyReference.cache
+C:\Ayyanar\Web-dev\Backend\c-sharp-practice-code\hello-world\obj\Debug\hello-world.csproj.CoreCompileInputs.cache
+C:\Ayyanar\Web-dev\Backend\c-sharp-practice-code\hello-world\obj\Debug\hello-world.exe
+C:\Ayyanar\Web-dev\Backend\c-sharp-practice-code\hello-world\obj\Debug\hello-world.pdb
