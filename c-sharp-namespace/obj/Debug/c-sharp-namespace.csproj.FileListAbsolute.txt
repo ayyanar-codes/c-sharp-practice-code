@@ -1,0 +1,7 @@
+C:\Ayyanar\Web-dev\Backend\c-sharp-practice-code\c-sharp-namespace\bin\Debug\c-sharp-namespace.exe.config
+C:\Ayyanar\Web-dev\Backend\c-sharp-practice-code\c-sharp-namespace\bin\Debug\c-sharp-namespace.exe
+C:\Ayyanar\Web-dev\Backend\c-sharp-practice-code\c-sharp-namespace\bin\Debug\c-sharp-namespace.pdb
+C:\Ayyanar\Web-dev\Backend\c-sharp-practice-code\c-sharp-namespace\obj\Debug\c-sharp-namespace.csproj.AssemblyReference.cache
+C:\Ayyanar\Web-dev\Backend\c-sharp-practice-code\c-sharp-namespace\obj\Debug\c-sharp-namespace.csproj.CoreCompileInputs.cache
+C:\Ayyanar\Web-dev\Backend\c-sharp-practice-code\c-sharp-namespace\obj\Debug\c-sharp-namespace.exe
+C:\Ayyanar\Web-dev\Backend\c-sharp-practice-code\c-sharp-namespace\obj\Debug\c-sharp-namespace.pdb
