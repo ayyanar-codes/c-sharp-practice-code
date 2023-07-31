@@ -1,0 +1,7 @@
+C:\Ayyanar\Web-dev\Backend\c-sharp-practice-code\5-switch\bin\Debug\5-switch.exe.config
+C:\Ayyanar\Web-dev\Backend\c-sharp-practice-code\5-switch\bin\Debug\5-switch.exe
+C:\Ayyanar\Web-dev\Backend\c-sharp-practice-code\5-switch\bin\Debug\5-switch.pdb
+C:\Ayyanar\Web-dev\Backend\c-sharp-practice-code\5-switch\obj\Debug\5-switch.csproj.AssemblyReference.cache
+C:\Ayyanar\Web-dev\Backend\c-sharp-practice-code\5-switch\obj\Debug\5-switch.csproj.CoreCompileInputs.cache
+C:\Ayyanar\Web-dev\Backend\c-sharp-practice-code\5-switch\obj\Debug\5-switch.exe
+C:\Ayyanar\Web-dev\Backend\c-sharp-practice-code\5-switch\obj\Debug\5-switch.pdb
