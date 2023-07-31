@@ -1,0 +1,7 @@
+C:\Ayyanar\Web-dev\Backend\c-sharp-practice-code\7-static-class-methods-constructors-fields\bin\Debug\7-static-class-methods-constructors-fields.exe.config
+C:\Ayyanar\Web-dev\Backend\c-sharp-practice-code\7-static-class-methods-constructors-fields\bin\Debug\7-static-class-methods-constructors-fields.exe
+C:\Ayyanar\Web-dev\Backend\c-sharp-practice-code\7-static-class-methods-constructors-fields\bin\Debug\7-static-class-methods-constructors-fields.pdb
+C:\Ayyanar\Web-dev\Backend\c-sharp-practice-code\7-static-class-methods-constructors-fields\obj\Debug\7-static-class-methods-constructors-fields.csproj.AssemblyReference.cache
+C:\Ayyanar\Web-dev\Backend\c-sharp-practice-code\7-static-class-methods-constructors-fields\obj\Debug\7-static-class-methods-constructors-fields.csproj.CoreCompileInputs.cache
+C:\Ayyanar\Web-dev\Backend\c-sharp-practice-code\7-static-class-methods-constructors-fields\obj\Debug\7-static-class-methods-constructors-fields.exe
+C:\Ayyanar\Web-dev\Backend\c-sharp-practice-code\7-static-class-methods-constructors-fields\obj\Debug\7-static-class-methods-constructors-fields.pdb
