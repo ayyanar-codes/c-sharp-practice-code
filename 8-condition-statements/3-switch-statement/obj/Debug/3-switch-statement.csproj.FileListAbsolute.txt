@@ -1,0 +1,7 @@
+C:\Ayyanar\Web-dev\Backend\c-sharp-practice-code\8-condition-statements\3-switch-statement\bin\Debug\3-switch-statement.exe.config
+C:\Ayyanar\Web-dev\Backend\c-sharp-practice-code\8-condition-statements\3-switch-statement\bin\Debug\3-switch-statement.exe
+C:\Ayyanar\Web-dev\Backend\c-sharp-practice-code\8-condition-statements\3-switch-statement\bin\Debug\3-switch-statement.pdb
+C:\Ayyanar\Web-dev\Backend\c-sharp-practice-code\8-condition-statements\3-switch-statement\obj\Debug\3-switch-statement.csproj.AssemblyReference.cache
+C:\Ayyanar\Web-dev\Backend\c-sharp-practice-code\8-condition-statements\3-switch-statement\obj\Debug\3-switch-statement.csproj.CoreCompileInputs.cache
+C:\Ayyanar\Web-dev\Backend\c-sharp-practice-code\8-condition-statements\3-switch-statement\obj\Debug\3-switch-statement.exe
+C:\Ayyanar\Web-dev\Backend\c-sharp-practice-code\8-condition-statements\3-switch-statement\obj\Debug\3-switch-statement.pdb

@@ -1,0 +1,7 @@
+C:\Ayyanar\Web-dev\Backend\c-sharp-practice-code\8-condition-statements\2-ternary-operator\bin\Debug\2-ternary-operator.exe.config
+C:\Ayyanar\Web-dev\Backend\c-sharp-practice-code\8-condition-statements\2-ternary-operator\bin\Debug\2-ternary-operator.exe
+C:\Ayyanar\Web-dev\Backend\c-sharp-practice-code\8-condition-statements\2-ternary-operator\bin\Debug\2-ternary-operator.pdb
+C:\Ayyanar\Web-dev\Backend\c-sharp-practice-code\8-condition-statements\2-ternary-operator\obj\Debug\2-ternary-operator.csproj.AssemblyReference.cache
+C:\Ayyanar\Web-dev\Backend\c-sharp-practice-code\8-condition-statements\2-ternary-operator\obj\Debug\2-ternary-operator.csproj.CoreCompileInputs.cache
+C:\Ayyanar\Web-dev\Backend\c-sharp-practice-code\8-condition-statements\2-ternary-operator\obj\Debug\2-ternary-operator.exe
+C:\Ayyanar\Web-dev\Backend\c-sharp-practice-code\8-condition-statements\2-ternary-operator\obj\Debug\2-ternary-operator.pdb
