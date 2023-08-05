@@ -1,0 +1,7 @@
+C:\Ayyanar\Web-dev\Backend\c-sharp-practice-code\10-types-of-classes\4-static-class\bin\Debug\4-static-class.exe.config
+C:\Ayyanar\Web-dev\Backend\c-sharp-practice-code\10-types-of-classes\4-static-class\bin\Debug\4-static-class.exe
+C:\Ayyanar\Web-dev\Backend\c-sharp-practice-code\10-types-of-classes\4-static-class\bin\Debug\4-static-class.pdb
+C:\Ayyanar\Web-dev\Backend\c-sharp-practice-code\10-types-of-classes\4-static-class\obj\Debug\4-static-class.csproj.AssemblyReference.cache
+C:\Ayyanar\Web-dev\Backend\c-sharp-practice-code\10-types-of-classes\4-static-class\obj\Debug\4-static-class.csproj.CoreCompileInputs.cache
+C:\Ayyanar\Web-dev\Backend\c-sharp-practice-code\10-types-of-classes\4-static-class\obj\Debug\4-static-class.exe
+C:\Ayyanar\Web-dev\Backend\c-sharp-practice-code\10-types-of-classes\4-static-class\obj\Debug\4-static-class.pdb

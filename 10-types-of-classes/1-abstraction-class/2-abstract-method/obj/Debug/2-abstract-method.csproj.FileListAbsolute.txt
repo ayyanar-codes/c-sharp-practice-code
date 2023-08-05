@@ -1,0 +1,7 @@
+C:\Ayyanar\Web-dev\Backend\c-sharp-practice-code\10-types-of-classes\2-abstract-method\bin\Debug\2-abstract-method.exe.config
+C:\Ayyanar\Web-dev\Backend\c-sharp-practice-code\10-types-of-classes\2-abstract-method\bin\Debug\2-abstract-method.exe
+C:\Ayyanar\Web-dev\Backend\c-sharp-practice-code\10-types-of-classes\2-abstract-method\bin\Debug\2-abstract-method.pdb
+C:\Ayyanar\Web-dev\Backend\c-sharp-practice-code\10-types-of-classes\2-abstract-method\obj\Debug\2-abstract-method.csproj.AssemblyReference.cache
+C:\Ayyanar\Web-dev\Backend\c-sharp-practice-code\10-types-of-classes\2-abstract-method\obj\Debug\2-abstract-method.csproj.CoreCompileInputs.cache
+C:\Ayyanar\Web-dev\Backend\c-sharp-practice-code\10-types-of-classes\2-abstract-method\obj\Debug\2-abstract-method.exe
+C:\Ayyanar\Web-dev\Backend\c-sharp-practice-code\10-types-of-classes\2-abstract-method\obj\Debug\2-abstract-method.pdb

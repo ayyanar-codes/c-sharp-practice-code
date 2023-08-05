@@ -1,0 +1,7 @@
+C:\Ayyanar\Web-dev\Backend\c-sharp-practice-code\10-types-of-classes\3-sealed-class\bin\Debug\3-sealed-class.exe.config
+C:\Ayyanar\Web-dev\Backend\c-sharp-practice-code\10-types-of-classes\3-sealed-class\bin\Debug\3-sealed-class.exe
+C:\Ayyanar\Web-dev\Backend\c-sharp-practice-code\10-types-of-classes\3-sealed-class\bin\Debug\3-sealed-class.pdb
+C:\Ayyanar\Web-dev\Backend\c-sharp-practice-code\10-types-of-classes\3-sealed-class\obj\Debug\3-sealed-class.csproj.AssemblyReference.cache
+C:\Ayyanar\Web-dev\Backend\c-sharp-practice-code\10-types-of-classes\3-sealed-class\obj\Debug\3-sealed-class.csproj.CoreCompileInputs.cache
+C:\Ayyanar\Web-dev\Backend\c-sharp-practice-code\10-types-of-classes\3-sealed-class\obj\Debug\3-sealed-class.exe
+C:\Ayyanar\Web-dev\Backend\c-sharp-practice-code\10-types-of-classes\3-sealed-class\obj\Debug\3-sealed-class.pdb

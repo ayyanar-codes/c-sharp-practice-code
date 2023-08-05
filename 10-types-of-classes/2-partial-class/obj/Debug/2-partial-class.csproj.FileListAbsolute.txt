@@ -1,0 +1,7 @@
+C:\Ayyanar\Web-dev\Backend\c-sharp-practice-code\10-types-of-classes\2-partial-class\bin\Debug\2-partial-class.exe.config
+C:\Ayyanar\Web-dev\Backend\c-sharp-practice-code\10-types-of-classes\2-partial-class\bin\Debug\2-partial-class.exe
+C:\Ayyanar\Web-dev\Backend\c-sharp-practice-code\10-types-of-classes\2-partial-class\bin\Debug\2-partial-class.pdb
+C:\Ayyanar\Web-dev\Backend\c-sharp-practice-code\10-types-of-classes\2-partial-class\obj\Debug\2-partial-class.csproj.AssemblyReference.cache
+C:\Ayyanar\Web-dev\Backend\c-sharp-practice-code\10-types-of-classes\2-partial-class\obj\Debug\2-partial-class.csproj.CoreCompileInputs.cache
+C:\Ayyanar\Web-dev\Backend\c-sharp-practice-code\10-types-of-classes\2-partial-class\obj\Debug\2-partial-class.exe
+C:\Ayyanar\Web-dev\Backend\c-sharp-practice-code\10-types-of-classes\2-partial-class\obj\Debug\2-partial-class.pdb
