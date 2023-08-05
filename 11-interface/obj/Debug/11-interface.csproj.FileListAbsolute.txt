@@ -1,0 +1,7 @@
+C:\Ayyanar\Web-dev\Backend\c-sharp-practice-code\10-types-of-classes\11-interface\bin\Debug\11-interface.exe.config
+C:\Ayyanar\Web-dev\Backend\c-sharp-practice-code\10-types-of-classes\11-interface\bin\Debug\11-interface.exe
+C:\Ayyanar\Web-dev\Backend\c-sharp-practice-code\10-types-of-classes\11-interface\bin\Debug\11-interface.pdb
+C:\Ayyanar\Web-dev\Backend\c-sharp-practice-code\10-types-of-classes\11-interface\obj\Debug\11-interface.csproj.AssemblyReference.cache
+C:\Ayyanar\Web-dev\Backend\c-sharp-practice-code\10-types-of-classes\11-interface\obj\Debug\11-interface.csproj.CoreCompileInputs.cache
+C:\Ayyanar\Web-dev\Backend\c-sharp-practice-code\10-types-of-classes\11-interface\obj\Debug\11-interface.exe
+C:\Ayyanar\Web-dev\Backend\c-sharp-practice-code\10-types-of-classes\11-interface\obj\Debug\11-interface.pdb
