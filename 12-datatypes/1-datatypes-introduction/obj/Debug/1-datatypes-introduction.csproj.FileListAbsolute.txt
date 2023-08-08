@@ -1,0 +1,7 @@
+C:\Users\Ayyanar\source\repos\1-datatypes-introduction\bin\Debug\1-datatypes-introduction.exe.config
+C:\Users\Ayyanar\source\repos\1-datatypes-introduction\bin\Debug\1-datatypes-introduction.exe
+C:\Users\Ayyanar\source\repos\1-datatypes-introduction\bin\Debug\1-datatypes-introduction.pdb
+C:\Users\Ayyanar\source\repos\1-datatypes-introduction\obj\Debug\1-datatypes-introduction.csproj.AssemblyReference.cache
+C:\Users\Ayyanar\source\repos\1-datatypes-introduction\obj\Debug\1-datatypes-introduction.csproj.CoreCompileInputs.cache
+C:\Users\Ayyanar\source\repos\1-datatypes-introduction\obj\Debug\1-datatypes-introduction.exe
+C:\Users\Ayyanar\source\repos\1-datatypes-introduction\obj\Debug\1-datatypes-introduction.pdb

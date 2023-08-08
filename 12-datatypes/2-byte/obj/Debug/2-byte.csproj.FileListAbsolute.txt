@@ -1,0 +1,7 @@
+C:\Users\Ayyanar\source\repos\2-byte\obj\Debug\2-byte.csproj.AssemblyReference.cache
+C:\Users\Ayyanar\source\repos\2-byte\obj\Debug\2-byte.csproj.CoreCompileInputs.cache
+C:\Users\Ayyanar\source\repos\2-byte\bin\Debug\2-byte.exe.config
+C:\Users\Ayyanar\source\repos\2-byte\bin\Debug\2-byte.exe
+C:\Users\Ayyanar\source\repos\2-byte\bin\Debug\2-byte.pdb
+C:\Users\Ayyanar\source\repos\2-byte\obj\Debug\2-byte.exe
+C:\Users\Ayyanar\source\repos\2-byte\obj\Debug\2-byte.pdb
