@@ -1,0 +1,6 @@
+C:\Ayyanar\Web-dev\Backend\c-sharp-practice-code\ReferenceType\obj\Debug\ReferenceType.csproj.CoreCompileInputs.cache
+C:\Ayyanar\Web-dev\Backend\c-sharp-practice-code\ReferenceType\bin\Debug\ReferenceType.exe.config
+C:\Ayyanar\Web-dev\Backend\c-sharp-practice-code\ReferenceType\bin\Debug\ReferenceType.exe
+C:\Ayyanar\Web-dev\Backend\c-sharp-practice-code\ReferenceType\bin\Debug\ReferenceType.pdb
+C:\Ayyanar\Web-dev\Backend\c-sharp-practice-code\ReferenceType\obj\Debug\ReferenceType.exe
+C:\Ayyanar\Web-dev\Backend\c-sharp-practice-code\ReferenceType\obj\Debug\ReferenceType.pdb

@@ -1,0 +1,7 @@
+C:\Ayyanar\Web-dev\Backend\c-sharp-practice-code\ValueType\bin\Debug\ValueType.exe.config
+C:\Ayyanar\Web-dev\Backend\c-sharp-practice-code\ValueType\bin\Debug\ValueType.exe
+C:\Ayyanar\Web-dev\Backend\c-sharp-practice-code\ValueType\bin\Debug\ValueType.pdb
+C:\Ayyanar\Web-dev\Backend\c-sharp-practice-code\ValueType\obj\Debug\ValueType.csproj.AssemblyReference.cache
+C:\Ayyanar\Web-dev\Backend\c-sharp-practice-code\ValueType\obj\Debug\ValueType.csproj.CoreCompileInputs.cache
+C:\Ayyanar\Web-dev\Backend\c-sharp-practice-code\ValueType\obj\Debug\ValueType.exe
+C:\Ayyanar\Web-dev\Backend\c-sharp-practice-code\ValueType\obj\Debug\ValueType.pdb
